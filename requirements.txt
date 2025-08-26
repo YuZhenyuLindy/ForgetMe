@@ -1,0 +1,11 @@
+torch
+torchvision
+diffusers>=0.25.0
+transformers
+accelerate
+safetensors
+pillow
+tqdm
+opencv-python
+open-clip-torch    # 可选，用于 --use_clip
+segment-anything   # 可选，用于 --sam_checkpoint
