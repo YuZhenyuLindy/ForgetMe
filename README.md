@@ -1,3 +1,5 @@
+# ForgetMe: Benchmarking the selective forgetting capabilities of generative models
+
 ## 🚀 Getting Started
 
 ### Installation
