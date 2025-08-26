@@ -1,4 +1,4 @@
-# ForgetMe: Benchmarking the selective forgetting capabilities of generative models
+# ForgetMe: Benchmarking the Selective Forgetting Capabilities of Generative Models
 
 ## 🚀 Getting Started
 
@@ -48,7 +48,7 @@ If you find this work useful, please cite our paper:
 
 ```bibtex
 @article{yu2025forgetme,
-  title={Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models},
+  title={ForgetMe: Benchmarking the Selective Forgetting Capabilities of Generative Models},
   author={Yu, Zhenyu and Idris, Mohd Yamani Inda and Wang, Pei and Xia, Yuelong and Xiang, Yong},
   journal={EAAI},
   year={2025}
