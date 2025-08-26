@@ -1,7 +1,3 @@
-好的，我帮你把 **Getting Started** 后面的内容改成纯 Markdown 形式，方便你直接放到 README 里。
-
----
-
 ## 🚀 Getting Started
 
 ### Installation
