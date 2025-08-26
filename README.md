@@ -1,5 +1,7 @@
 # ForgetMe: Benchmarking the Selective Forgetting Capabilities of Generative Models
 
+<p align="center"> <img src="docs/pipeline.png" alt="ForgetMe Overview" width="700"/> </p>
+
 ## 🚀 Getting Started
 
 ### Installation
